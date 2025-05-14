@@ -44,11 +44,4 @@ The dataset includes:
 
 ### Visuals
 
-Sample visualizations are available in the `visuals/` folder.
-
-### Requirements
-
-To install dependencies:
-```bash
-pip install -r requirements.txt
-
+Sample visualizations are available in the Notebooks.
